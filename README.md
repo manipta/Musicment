@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#dart-How-To-Use">How To Use</a> &#xa0; | &#xa0; 
+  <a href="#dart-how-to-use">How To Use</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
@@ -56,15 +56,13 @@ https://user-images.githubusercontent.com/87516213/197361717-c5ada7e9-fa10-49a9-
 
 The following tools were used in this project:
 
-- [Numpy](https://numpy.org/)
-- [Pandas](https://pandas.pydata.org/)
-- [Matplotlib](https://matplotlib.org/)
+- [Mediapipe](https://google.github.io/mediapipe/solutions/hands)
+- [PySineWave](https://pypi.org/project/pysinewave//)
 - [OpenCV](https://opencv.org/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting, you need to have [Git](https://git-scm.com) & basic Deep Learning libraries installed.
-You should also install Hill Climb Racing by going to <a href="https://www.microsoft.com/en-us/p/hill-climb-racing/9wzdncrdcwk8?activetab=pivot:overviewtab" target="_blank">This Link</a>
+Before starting, you need to have [Git](https://git-scm.com)
 
 ## :checkered_flag: Starting ##
 
