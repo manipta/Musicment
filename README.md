@@ -38,11 +38,11 @@ Software plays Musical Notes based on the Hand Gestures. The Notes of an Octave 
 ## :dart: How To Use ##
 
 ### Basic Interface of Window:-
-![Basic Interface of Window](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures/blob/07cf1f7f5c7cf9705b6a3bda8c47d21e1fbd2c65/media/Basic%20Interface.png)
+![Basic Interface of Window]()
 
 
 ### 🎶Playing the Notes:-
-https://user-images.githubusercontent.com/87516213/197361717-c5ada7e9-fa10-49a9-a13f-fb07b41ab75a.mp4
+![Playing the Notes]()
 
 
 ## :sparkles: Features ##
