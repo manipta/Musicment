@@ -38,7 +38,8 @@ Software plays Musical Notes based on the Hand Gestures. The Notes of an Octave 
 ## :dart: How To Use ##
 
 ### Basic Interface of Window:-
-![Basic Interface of Window]()
+![Basic Interface of Window](![image](https://user-images.githubusercontent.com/72307020/202861227-e3742cde-e0b2-462c-93d6-e324e04a3a79.png)
+)
 
 
 ### 🎶Playing the Notes:-
