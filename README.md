@@ -25,7 +25,8 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-Made-By">Made By</a> &#xa0; | &#xa0;
+  <a href="#bookmark_tabs-other-docs">Other Docs</a> &#xa0; | &#xa0;
+  <a href="#memo-made-by">Made By</a> &#xa0; | &#xa0;
   <a href="https://github.com/manipta" target="_blank">Author</a>
 </p>
 
@@ -42,13 +43,12 @@ Software plays Musical Notes based on the Hand Gestures. The Notes of an Octave 
 
 
 ### 🎶Playing the Notes:-
-![Playing the Notes](https://clipchamp.com/watch/V7xne2nHsC4)
+https://user-images.githubusercontent.com/72307020/202865097-1c81eb2a-0062-42aa-a9ac-d5cf8fcd08c2.mp4
 
 
 ## :sparkles: Features ##
 
 :heavy_check_mark: Uses Open Computer Vision (OpenCV)\
-:heavy_check_mark: Tracks hands and Finger Tips Efficiently\
 :heavy_check_mark: Notes from C3 to C7 \
 :heavy_check_mark: Control Notes by one Hand and Octaves by other
 
@@ -80,11 +80,14 @@ $ pip install -r requirements.txt
 $ python main.py
 
 ```
+## :bookmark_tabs: Other Docs ##
+Table with Frequency and Wavelength Values for Particular Note
 
+[Click Here](https://pages.mtu.edu/~suits/notefreqs.html)
 ## :memo: Made By ##
 
-Made with :heart: by <a href="https://github.com/manipta" target="_blank">Mani Garg</a>
-
+Made with :heart: by <a href="https://github.com/manipta" target="_blank">Mani Garg</a> \
+Inspired by [this](https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures)
 &#xa0;
 
 <a href="#top">Back to top</a>
