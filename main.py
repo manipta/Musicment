@@ -26,7 +26,7 @@ try:
     #To Play a Particular Note/Frequency
     def Play_Note(sto,freq,vol):
     
-        print(pfreq,freq) #prints current and previous frequency(for debug purpose)
+        print("PrevFreq,CurFreq:",pfreq,freq) #prints current and previous frequency(for debug purpose)
          
         if not freq==pfreq: #if current note/frequency is different
             ps.SineWave.stop(sto)
