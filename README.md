@@ -42,7 +42,7 @@ Software plays Musical Notes based on the Hand Gestures. The Notes of an Octave 
 
 
 ### 🎶Playing the Notes:-
-![Playing the Notes]()
+![Playing the Notes](https://clipchamp.com/watch/V7xne2nHsC4)
 
 
 ## :sparkles: Features ##
