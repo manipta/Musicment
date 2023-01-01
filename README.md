@@ -45,6 +45,39 @@ Software plays Musical Notes based on the Hand Gestures. The Notes of an Octave 
 ### 🎶Playing the Notes:-
 https://user-images.githubusercontent.com/72307020/202865097-1c81eb2a-0062-42aa-a9ac-d5cf8fcd08c2.mp4
 
+### Controls of the Program:-
+After running the program, you may read the main window's instructions.
+
+You may press <b>q/Q</b> anytime to <b>Quit</b>.
+
+For continuing, press <b>'Enter'</b>
+
+After that, show the hand you want to use for Octaves (Don't Worry, it will show you as Hand for Notes), then show your other hand used for Notes (Now it will show you correct Notations).
+
+Now <b>Close both your hands</b> to make a <b>fist</b>.
+
+#### For Octave Hand:
+
+Starting <b>from the thumb to the little finger</b>, by adding each finger, <b>the octaves start to increase.</b> (C4->C5->C6->C7->C8) 
+here adding a finger means opening up a finger.
+
+#### For Notes Hand:
+
+a close <b>fist</b> means <b>" Sa/C "</b>
+
+just opening the <b>thumb</b> means <b>" Re/D "</b>
+
+just opening the <b>index</b> finger means <b>" Ga/E "</b>
+
+just opening the <b>middle</b> finger means <b>" Ma'/F# "</b>
+
+opening <b>index</b> and <b>thumb</b> indicates <b>" Pa/G "</b>
+
+opening <b>index</b> and <b>middle</b> indicates <b>" Dha/A "</b>
+
+opening <b>index, middle,</b> and <b>thumb</b> indicates <b>" Ni/B "</b>
+
+opening the <b>little</b> only means <b>" Sa'/C' "</b>
 
 ## :sparkles: Features ##
 
