@@ -36,6 +36,8 @@
 
 Software plays Musical Notes based on the Hand Gestures. The Notes of an Octave plays as we move our hand in front of the Primary Camera. It uses Machine Learning to infer 21 3-Dimensional Landmarks of our hand using Mediapipe's State-of-the-art techniques.
 
+Detailed Article <strong>explaining the code</strong> is on my [Medium Accout](https://medium.com/@manipta/play-musical-notes-with-your-hand-gestures-using-python-9d8ea930fadb)
+
 ## :dart: How To Use ##
 
 ### Basic Interface of Window:-
